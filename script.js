@@ -25,3 +25,8 @@ function gallo1(){
 function maiale1(){
   document.getElementById("maiale").innerHTML=`Zampe: ${maiale.zampe} <br\> Colore: ${maiale.colore}<br\> Razza: ${maiale.razza}`;
 }
+
+
+function audio_mucca(){
+  
+}
